@@ -1,0 +1,15 @@
+body{
+    font-family:cursive;
+    color:#408E91;
+    background-color:#D8D8D8
+}
+main{
+    text-align:center; 
+    list-style-position: inside;
+}
+h1,h2 {
+    text-align:center; 
+    color:#245953;
+    font-family:cursive;
+    background-color:#E49393;
+}
